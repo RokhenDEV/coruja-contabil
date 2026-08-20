@@ -1,15 +1,16 @@
-# Coruja-Contábil
-🦉 Organize suas contas, calcule totais e gere PDF com sabedoria.
-
 # 🦉 Coruja Contábil
 
-**Coruja Contábil** é uma ferramenta web para organizar e calcular suas contas (boletos) de forma simples e rápida. Com uma interface escura e amigável, você pode:
+**Coruja Contábil** é uma ferramenta web para organizar e calcular suas contas (boletos) de forma simples e rápida.
 
-- Adicionar quantas contas quiser (mínimo 1, máximo 20).
-- Escolher entre categorias pré-definidas ou personalizar o nome de cada conta.
-- Inserir valores com máscara automática (formato brasileiro).
-- Ver o total, saber se o dinheiro disponível é suficiente e calcular troco ou falta.
-- Gerar um extrato detalhado em PDF com fundo branco para impressão.
+## ✨ Funcionalidades
+
+- Adicione quantas contas quiser (mínimo 1, máximo 20)
+- Escolha entre categorias pré-definidas ou personalize o nome de cada conta
+- Valores com máscara automática (formato brasileiro R$ 1.234,56)
+- Veja o total, saiba se o dinheiro disponível é suficiente e calcule troco ou falta
+- Extrato detalhado com data/hora e status
+- Gere um relatório em PDF com fundo branco para impressão
+- Tema dark moderno e responsivo
 
 ## 🛠 Tecnologias utilizadas
 
@@ -27,8 +28,12 @@
 
 ## 📸 Captura de tela
 
-*(adicione uma imagem aqui)*
+*(em breve)*
 
 ## 📄 Licença
 
-Este projeto está sob a licença MIT.
+Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
+
+---
+
+Desenvolvido com 🦉 por **Rokhen**
