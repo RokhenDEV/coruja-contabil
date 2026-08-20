@@ -1,4 +1,4 @@
-# Coruja-Cont-bil
+# Coruja-Contábil
 🦉 Organize suas contas, calcule totais e gere PDF com sabedoria.
 
 # 🦉 Coruja Contábil
