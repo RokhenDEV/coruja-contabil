@@ -2,6 +2,8 @@
 
 **Coruja Contábil** é uma ferramenta web para organizar e calcular suas contas (boletos) de forma simples e rápida.
 
+<img width="1942" height="809" alt="Image" src="https://github.com/user-attachments/assets/907217d6-3ada-41ae-aa3b-d46839577b33" />
+
 ## 🔗 Acesse o projeto
 
 [https://rokhendev.github.io/coruja-contabil/](https://rokhendev.github.io/coruja-contabil/)
