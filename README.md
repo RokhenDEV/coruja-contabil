@@ -2,6 +2,10 @@
 
 **Coruja Contábil** é uma ferramenta web para organizar e calcular suas contas (boletos) de forma simples e rápida.
 
+## 🔗 Acesse o projeto
+
+[https://rokhendev.github.io/coruja-contabil/](https://rokhendev.github.io/coruja-contabil/)
+
 ## ✨ Funcionalidades
 
 - Adicione quantas contas quiser (mínimo 1, máximo 20)
@@ -20,15 +24,11 @@
 
 ## 🚀 Como usar
 
-1. Abra o arquivo `index.html` no navegador.
+1. Acesse o site: [https://rokhendev.github.io/coruja-contabil/](https://rokhendev.github.io/coruja-contabil/)
 2. Adicione suas contas preenchendo categoria e valor.
 3. Informe o dinheiro disponível e clique em "Calcular".
 4. Veja o resultado e o extrato completo.
 5. Clique em "Gerar PDF do extrato" para baixar o relatório.
-
-## 📸 Captura de tela
-
-*(em breve)*
 
 ## 📄 Licença
 
