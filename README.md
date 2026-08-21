@@ -8,6 +8,8 @@
 
 [https://rokhendev.github.io/coruja-contabil/](https://rokhendev.github.io/coruja-contabil/)
 
+---
+
 ## ✨ Funcionalidades
 
 - Adicione quantas contas quiser (mínimo 1, máximo 20)
@@ -18,11 +20,15 @@
 - Gere um relatório em PDF com fundo branco para impressão
 - Tema dark moderno e responsivo
 
+---
+
 ## 🛠 Tecnologias utilizadas
 
 - HTML, CSS e JavaScript (puro)
 - [jsPDF](https://github.com/parallax/jsPDF) + [jspdf-autotable](https://github.com/simonbengtsson/jspdf-autotable) para geração de PDF
 - Design responsivo e tema dark
+
+---
 
 ## 🚀 Como usar
 
@@ -31,6 +37,8 @@
 3. Informe o dinheiro disponível e clique em "Calcular".
 4. Veja o resultado e o extrato completo.
 5. Clique em "Gerar PDF do extrato" para baixar o relatório.
+
+---
 
 ## 📄 Licença
 
